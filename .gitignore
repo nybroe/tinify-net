@@ -122,6 +122,9 @@ AutoTest.Net/
 # Web workbench (sass)
 .sass-cache/
 
+# MFractors (Xamarin productivity tool) working folder
+.mfractor/
+
 # Installshield output folder
 [Ee]xpress/
 
